@@ -1,11 +1,11 @@
 [
-     {
-          "image":["https://d3nn873nee648n.cloudfront.net/HomeImages/Concept-and-Ideas.jpg","https://thetreeforsuccess.files.wordpress.com/2019/04/a3d8dd96fd914b299fe150198dd96d8b.jpg","https://images.unsplash.com/photo-1590071089561-2087ff1fc418?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=380&q=80"],
-          "title": "image (from Latin: imago) is an artifact that depicts visual perception, such as a photograph or other two-dimensional · picture, that resembles a subject",
-          "tutor": "Risean Alexa",
-          "tutor-photo":"https://images.unsplash.com/photo-1525786210598-d527194d3e9a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d29tYW4lMjBzbWlsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
-          "complete":15,
-          "description": "image (from Latin: imago) is an artifact that depicts visual perception, such as a photograph or other two-dimensional · picture, that resembles a subject image (from Latin: imago) is an artifact that depicts visual perception, such as a photograph or other two-dimensional · picture, that resembles a subject",
+     {"id":1,
+          "image":["https://cdn.shopify.com/s/files/1/0601/1541/9335/products/71YuDz_J1TL._AC_SL1200_1200x.jpg?v=1641724251","https://d3rf6j5nx5r04a.cloudfront.net/3kLWhaelPqrXmFzHHPTq1JJanzk=/900x0/product/1/a/ef3641db08654dac8174ab034235b363_opt.jpg","https://d3rf6j5nx5r04a.cloudfront.net/EzOi7MOanIXuEtkYJG66fBta4Eo=/1000x580/product/4/6/a4614fb8a2b048159a330ec34208bc43_opt.jpg"],
+          "title": "Summer Art Camp! 5 Days of Artists and Painting Monet, Van Gogh, Matisse, & More",
+          "tutor": "Kimberly R Mosseier",
+          "tutorPhoto":"https://static.generated.photos/vue-static/home/feed/white-woman.png",
+          "complete":21,
+          "description": "In this 5 days class we will explore artists Monet, Matisse, Van Gogh, among others and then recreate painting using crayon and watercolor, Students will have fun learning about the artists & creating their own art inspired by their work",
           "review": 467,
           "course": "Multi-Day Course"
      }
